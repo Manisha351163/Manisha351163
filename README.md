@@ -31,25 +31,43 @@
 
 ---
 
-### `whoami`
+## 👋 About Me
 
-```python
-class Manisha:
-    name     = "Manisha T H"
-    college  = "BMSIT, Bengaluru · CS & Business Systems"
-    batch    = "2027"
-    cgpa     = 8.9
+CS & Business Systems student at **BMSIT Bengaluru**, passionate about building AI-powered products that solve real-world healthcare and workflow challenges.
 
-    focus    = ["AI/ML integration", "Healthcare tech",
-                "Full-stack systems", "Production reliability"]
+<table>
+<tr>
+<td align="center" width="20%">
+🎓<br>
+<b>BMSIT Bengaluru</b><br>
+Class of 2027
+</td>
 
-    currently_building = [
-        "Clinical AI decision support (ClinIQ)",
-        "RAG pipelines for real use cases",
-    ]
+<td align="center" width="20%">
+📈<br>
+<b>CGPA</b><br>
+8.9 / 10
+</td>
 
-    open_to  = "AI · SWE · ML internships"
-```
+<td align="center" width="20%">
+🤖<br>
+<b>Focus Areas</b><br>
+AI • Healthcare • Full-Stack
+</td>
+
+<td align="center" width="20%">
+🛠️<br>
+<b>Building</b><br>
+ClinIQ & RAG Systems
+</td>
+
+<td align="center" width="20%">
+💼<br>
+<b>Open To</b><br>
+AI • SWE • ML
+</td>
+</tr>
+</table>
 
 ---
 
