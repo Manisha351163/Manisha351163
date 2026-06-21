@@ -25,16 +25,31 @@
 ![CGPA](https://img.shields.io/badge/CGPA-8.9%20%2F%2010-E8A020?style=flat-square)&nbsp;
 ![Degree](https://img.shields.io/badge/CS_%26_Business_Systems-BMSIT_Bengaluru-1DB882?style=flat-square)&nbsp;
 ![Status](https://img.shields.io/badge/Status-Open_to_Internships-4A9EFF?style=flat-square)&nbsp;
-![Location](https://img.shields.io/badge/📍_Bengaluru-Remote_Ready-6E40C9?style=flat-square)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru-Remote_Ready-6E40C9?style=flat-square)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Manisha351163&show_icons=true&theme=transparent&hide_border=true&title_color=E8A020&icon_color=E8A020&text_color=8a8785&ring_color=E8A020&include_all_commits=true" />
+### `whoami`
 
+```python
+class Manisha:
+    name     = "Manisha T H"
+    college  = "BMSIT, Bengaluru · CS & Business Systems"
+    batch    = "2027"
+    cgpa     = 8.9
 
-<br clear="right"/>
+    focus    = ["AI/ML integration", "Healthcare tech",
+                "Full-stack systems", "Production reliability"]
+
+    currently_building = [
+        "Clinical AI decision support (ClinIQ)",
+        "RAG pipelines for real use cases",
+    ]
+
+    open_to  = "AI · SWE · ML internships"
+```
 
 ---
 
@@ -147,7 +162,7 @@ Personalized placement prep platform with role-based roadmaps, mock interview fl
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ Food Ordering System *(Dual Architecture Study)*
+### 🍽️ Food Ordering System *(Dual Architecture)*
 **MySQL vs MongoDB · Comparative Design**
 
 Same canteen ordering system, built twice — once relational (MySQL) and once document-store (MongoDB). A deliberate study of schema design tradeoffs, query performance, and data modeling decisions.
@@ -295,27 +310,23 @@ Led logistics and participant engagement for **5+ technical workshops and hackat
 
 <div align="center">
 
-![NPTEL1](https://img.shields.io/badge/🎓_AI_for_Management-NPTEL_IIT_Madras_·_91%25_·_Top_2%25-1DB882?style=for-the-badge)
-![NPTEL2](https://img.shields.io/badge/🎓_Smart_Cities-NPTEL_IIT_Indore_·_95%25-1DB882?style=for-the-badge)
-![NPTEL3](https://img.shields.io/badge/🎓_DSA_Elite-NPTEL_IIT_Kanpur-1DB882?style=for-the-badge)
+![NPTEL1](https://img.shields.io/badge/%F0%9F%8E%93_AI_for_Management-NPTEL_IIT_Madras_%C2%B7_91%25_%C2%B7_Top_2%25-1DB882?style=for-the-badge)
+![NPTEL2](https://img.shields.io/badge/%F0%9F%8E%93_Smart_Cities-NPTEL_IIT_Indore_%C2%B7_95%25-1DB882?style=for-the-badge)
+![NPTEL3](https://img.shields.io/badge/%F0%9F%8E%93_DSA_Elite-NPTEL_IIT_Kanpur-1DB882?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manisha351163&show_icons=true&theme=transparent&hide_border=true&title_color=E8A020&icon_color=E8A020&text_color=8a8785&ring_color=E8A020&include_all_commits=true&count_private=true)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha351163&layout=compact&theme=transparent&hide_border=true&title_color=E8A020&text_color=8a8785&langs_count=7)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manisha351163&bg_color=00000000&color=E8A020&line=E8A020&point=ffffff&area=true&hide_border=true)
+| 🔨 Building | 📖 Learning | 🎯 Targeting |
+|:-----------:|:-----------:|:------------:|
+| ClinIQ clinical AI platform | Advanced RAG architectures | AI / ML Engineering roles |
+| General-purpose RAG system | LLM fine-tuning & prompt engineering | Healthcare tech startups |
+| Deepening DSA for interviews | System design patterns | Product-adjacent SWE roles |
 
 </div>
 
@@ -323,9 +334,13 @@ Led logistics and participant engagement for **5+ technical workshops and hackat
 
 <div align="center">
 
-*Open to AI / SWE / ML internships · Bengaluru-based, remote-ready*
+*Pre-final year · BMSIT Bengaluru · CS & Business Systems · 2027*
 <br/>
-**[manishamrudhu17@gmail.com](mailto:manishamrudhu17@gmail.com) · [LinkedIn](https://linkedin.com/in/manisha-th)**
+*Open to AI / SWE / ML internships · Bengaluru-based, remote-ready*
+<br/><br/>
+**[manishamrudhu17@gmail.com](mailto:manishamrudhu17@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/manisha-th)** &nbsp;·&nbsp; **[GitHub](https://github.com/Manisha351163)**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
