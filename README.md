@@ -33,25 +33,6 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Manisha351163&show_icons=true&theme=transparent&hide_border=true&title_color=E8A020&icon_color=E8A020&text_color=8a8785&ring_color=E8A020&include_all_commits=true" />
 
-### `whoami`
-
-```python
-class Manisha:
-    name     = "Manisha T H"
-    college  = "BMSIT, Bengaluru · CS & Business Systems"
-    batch    = "2027"
-    cgpa     = 8.9
-
-    focus    = ["AI/ML integration", "Healthcare tech",
-                "Full-stack systems", "Production reliability"]
-
-    currently_building = [
-        "Clinical AI decision support (ClinIQ)",
-        "RAG pipelines for real use cases",
-    ]
-
-    open_to  = "AI · SWE · ML internships"
-```
 
 <br clear="right"/>
 
