@@ -31,43 +31,31 @@
 
 ---
 
-## 👋 About Me
+## 📊 Developer Stats
 
-CS & Business Systems student at **BMSIT Bengaluru**, passionate about building AI-powered products that solve real-world healthcare and workflow challenges.
+```yaml
+name: Manisha T H
+role: AI Engineer
 
-<table>
-<tr>
-<td align="center" width="20%">
-🎓<br>
-<b>BMSIT Bengaluru</b><br>
-Class of 2027
-</td>
+focus:
+  - Healthcare AI
+  - Full-Stack Systems
+  - RAG Applications
 
-<td align="center" width="20%">
-📈<br>
-<b>CGPA</b><br>
-8.9 / 10
-</td>
+currently_building:
+  - ClinIQ
+  - Real-world RAG Pipelines
 
-<td align="center" width="20%">
-🤖<br>
-<b>Focus Areas</b><br>
-AI • Healthcare • Full-Stack
-</td>
+achievements:
+  hackathon_wins: 7+
+  certifications: 3
+  projects_shipped: 6+
 
-<td align="center" width="20%">
-🛠️<br>
-<b>Building</b><br>
-ClinIQ & RAG Systems
-</td>
-
-<td align="center" width="20%">
-💼<br>
-<b>Open To</b><br>
-AI • SWE • ML
-</td>
-</tr>
-</table>
+seeking:
+  - AI Internships
+  - SWE Roles
+  - ML Opportunities
+```
 
 ---
 
