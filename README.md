@@ -29,35 +29,11 @@
 
 </div>
 
----
+<div align="center">
 
-## 📊 Developer Stats
+> Curious about problems. Relentless about building solutions.
 
-```yaml
-name: Manisha T H
-role: AI Engineer
-
-focus:
-  - Healthcare AI
-  - Full-Stack Systems
-  - RAG Applications
-
-currently_building:
-  - ClinIQ
-  - Real-world RAG Pipelines
-
-achievements:
-  hackathon_wins: 7+
-  certifications: 3
-  projects_shipped: 6+
-
-seeking:
-  - AI Internships
-  - SWE Roles
-  - ML Opportunities
-```
-
----
+</div>
 
 ## 🚀 Projects
 
