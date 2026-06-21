@@ -25,7 +25,7 @@
 ![CGPA](https://img.shields.io/badge/CGPA-8.9%20%2F%2010-E8A020?style=flat-square)&nbsp;
 ![Degree](https://img.shields.io/badge/CS_%26_Business_Systems-BMSIT_Bengaluru-1DB882?style=flat-square)&nbsp;
 ![Status](https://img.shields.io/badge/Status-Open_to_Internships-4A9EFF?style=flat-square)&nbsp;
-![Location](https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru-Remote_Ready-6E40C9?style=flat-square)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru-Open_to_work-6E40C9?style=flat-square)
 
 </div>
 
