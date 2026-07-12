@@ -60,6 +60,8 @@ Insurance claim denials cause massive manual overhead. Built a **hybrid Rule Eng
 ✦ 50% reduction in processing effort
 ```
 
+**[🔗 Live](ADD_LIVE_LINK_HERE) · [💻 GitHub](ADD_GITHUB_LINK_HERE)**
+
 </td>
 <td width="50%" valign="top">
 
@@ -79,6 +81,8 @@ Intelligent platform for patient management and AI-based clinical decision suppo
 ✦ 50% cut in documentation time
 ✦ End-to-end clinical data automation
 ```
+
+**[🔗 Live](ADD_LIVE_LINK_HERE) · [💻 GitHub](ADD_GITHUB_LINK_HERE)**
 
 </td>
 </tr>
@@ -101,6 +105,8 @@ Full-stack postpartum mental health platform with **EPDS/PHQ-9 clinical screenin
 ✦ Validated ML inference pipelines
 ```
 
+**[🔗 Live](ADD_LIVE_LINK_HERE) · [💻 GitHub](ADD_GITHUB_LINK_HERE)**
+
 </td>
 <td width="50%" valign="top">
 
@@ -120,6 +126,8 @@ RAG-based chatbot for student mental health. **TF-IDF retrieval** grounds respon
 ✦ Graceful fallbacks for edge cases
 ```
 
+**[🔗 Live](ADD_LIVE_LINK_HERE) · [💻 GitHub](ADD_GITHUB_LINK_HERE)**
+
 </td>
 </tr>
 <tr>
@@ -134,7 +142,6 @@ Personalized placement prep platform with role-based roadmaps, mock interview fl
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-
 ```
 ✦ 40% faster page load
 ✦ 30% improvement in feedback accuracy
