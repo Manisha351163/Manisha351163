@@ -60,33 +60,9 @@ Insurance claim denials cause massive manual overhead. Built a **hybrid Rule Eng
 ✦ 50% reduction in processing effort
 ```
 
-**[🔗 Live](ADD_LIVE_LINK_HERE) · [💻 GitHub](ADD_GITHUB_LINK_HERE)**
+**[🔗 Live](https://smart-rcm.onrender.com) · [💻 GitHub](ADD_GITHUB_LINK_HERE)**
 
 </td>
-<td width="50%" valign="top">
-
-### 🏥 ClinIQ — Clinical Decision Platform
-**Healthcare · GPT-4 · ETL · Flask**
-
-Intelligent platform for patient management and AI-based clinical decision support. Role-based access for staff and doctors, real-time alerts, bed tracking, and GPT-4 automated documentation.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4_API-412991?style=flat&logo=openai&logoColor=white)
-
-```
-✦ ETL pipelines with anomaly flagging
-✦ 50% cut in documentation time
-✦ End-to-end clinical data automation
-```
-
-**[🔗 Live](ADD_LIVE_LINK_HERE) · [💻 GitHub](ADD_GITHUB_LINK_HERE)**
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤱 Maahyu — Maternal Wellness Platform
@@ -104,8 +80,31 @@ Full-stack postpartum mental health platform with **EPDS/PHQ-9 clinical screenin
 ✦ Real-time concurrent Firebase backend
 ✦ Validated ML inference pipelines
 ```
+**[🔗 Live](https://maahyu.onrender.com/) · [💻 GitHub](https://github.com/Manisha351163/MAAHYU)**
 
-**[🔗 Live](ADD_LIVE_LINK_HERE) · [💻 GitHub](ADD_GITHUB_LINK_HERE)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+
+### 🌾 KrishiVerse — Gamified AgriTech Platform
+**Firebase · Gemini AI · Cloud Vision**
+
+Gamified sustainable-farming platform turning agricultural knowledge into action — real-world farming quests, a multilingual AI assistant, live mandi prices, and a government scheme tracker, all synced in real time across 6 modules.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![Cloud Vision](https://img.shields.io/badge/Cloud_Vision_API-4285F4?style=flat&logo=google&logoColor=white)
+```
+✦ 6 interconnected real-time modules
+✦ AI-verified quest completion via Vision API
+✦ Auto-matched government scheme eligibility
+```
+
+
+**[🔗 Live](https://krishiverse-ronz.onrender.com/) · [💻 GitHub](https://github.com/Manisha351163/KrishiVerseProject)**
 
 </td>
 <td width="50%" valign="top">
@@ -133,6 +132,29 @@ RAG-based chatbot for student mental health. **TF-IDF retrieval** grounds respon
 <tr>
 <td width="50%" valign="top">
 
+### 🏥 ClinIQ — Clinical Decision Platform
+**Healthcare · GPT-4 · ETL · Flask**
+
+Intelligent platform for patient management and AI-based clinical decision support. Role-based access for staff and doctors, real-time alerts, bed tracking, and GPT-4 automated documentation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4_API-412991?style=flat&logo=openai&logoColor=white)
+
+```
+✦ ETL pipelines with anomaly flagging
+✦ 50% cut in documentation time
+✦ End-to-end clinical data automation
+```
+
+[💻 GitHub](https://github.com/Manisha351163/manipal-ops-dashboard)**
+
+</td>
+<td width="50%" valign="top">
+
+
 ### 🚀 Placement GPS
 **AI Feedback · MongoDB · OpenAI**
 
@@ -148,7 +170,12 @@ Personalized placement prep platform with role-based roadmaps, mock interview fl
 ✦ Role-based personalization engine
 ```
 
+
+**[🔗 Live](ADD_LIVE_LINK_HERE) · [💻 GitHub](https://github.com/Manisha351163/Interactive-Roadmap)**
+
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍽️ Food Ordering System *(Dual Architecture)*
